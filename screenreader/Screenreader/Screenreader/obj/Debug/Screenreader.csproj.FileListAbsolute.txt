@@ -1,0 +1,9 @@
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\bin\Debug\Screenreader.exe.config
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\bin\Debug\Screenreader.exe
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\bin\Debug\Screenreader.pdb
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\obj\Debug\Screenreader.csprojResolveAssemblyReference.cache
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\obj\Debug\Screenreader.Form1.resources
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\obj\Debug\Screenreader.Properties.Resources.resources
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\obj\Debug\Screenreader.csproj.GenerateResource.Cache
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\obj\Debug\Screenreader.exe
+c:\users\saikat.dell-pc\documents\visual studio 2012\Projects\Screenreader\Screenreader\obj\Debug\Screenreader.pdb

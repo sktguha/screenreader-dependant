@@ -1,0 +1,9 @@
+c:\Users\saikat.DELL-PC\Documents\Visual Studio 2012\Projects\Screenreader\Screenreader\obj\Release\Screenreader.Form1.resources
+c:\Users\saikat.DELL-PC\Documents\Visual Studio 2012\Projects\Screenreader\Screenreader\obj\Release\Screenreader.Properties.Resources.resources
+c:\Users\saikat.DELL-PC\Documents\Visual Studio 2012\Projects\Screenreader\Screenreader\obj\Release\Screenreader.csproj.GenerateResource.Cache
+C:\Users\saikat.DELL-PC\Documents\Visual Studio 2012\Projects\Screenreader\Screenreader\obj\Release\Screenreader.csprojResolveAssemblyReference.cache
+C:\Users\saikat.DELL-PC\documents\visual studio 2012\Projects\Screenreader\Screenreader\bin\Release\Keypresser.exe.config
+C:\Users\saikat.DELL-PC\documents\visual studio 2012\Projects\Screenreader\Screenreader\bin\Release\Keypresser.exe
+C:\Users\saikat.DELL-PC\documents\visual studio 2012\Projects\Screenreader\Screenreader\bin\Release\Keypresser.pdb
+C:\Users\saikat.DELL-PC\documents\visual studio 2012\Projects\Screenreader\Screenreader\obj\Release\Keypresser.exe
+C:\Users\saikat.DELL-PC\documents\visual studio 2012\Projects\Screenreader\Screenreader\obj\Release\Keypresser.pdb
