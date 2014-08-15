@@ -1,3 +1,5 @@
+PLEASE VIEW THIS FILE IN RAW MODE. OTHERWISE EVERYTHING IS SCRAMBLED :(
+
 screenreader-dependant
 ======================
 
