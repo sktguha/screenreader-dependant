@@ -1,8 +1,5 @@
 PLEASE VIEW THIS FILE IN RAW MODE. OTHERWISE EVERYTHING IS SCRAMBLED :(
 
-screenreader-dependant
-======================
-
 a simple extension for chrome to read websites aloud without any user interface
 see the video tutorial(http://youtu.be/gmfv3QHrwfM) or a simple description below
 ----------KEYMAP-----------
