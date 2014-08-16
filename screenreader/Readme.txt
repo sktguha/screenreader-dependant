@@ -1,4 +1,9 @@
-hello sir please see the code for screenreader extension. the main file is "screenreader.js".
+hello please see the code for screenreader extension. (there is a platform independent one https://github.com/sktguha/screenreader_deploy_ready_standalone)
+
+HOW TO INSTALL
+1)screenreader_deploy_ready is an unpacked chrome extension folder. you need to install in it developer mode.
+2)BrowserSpeak.exe also needs to be running
+3)also make sure proxy is not enabled(otherwise use platform independent one, see above)
 some functions may be uncommented
 or not described well. i am sorry for that. actually i made this for myself to avoid eyestrain
 while reading webpages .
