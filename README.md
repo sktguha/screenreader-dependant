@@ -3,6 +3,7 @@ PLEASE VIEW THIS FILE IN RAW MODE. OTHERWISE EVERYTHING IS SCRAMBLED :(
 a simple extension for chrome to read websites aloud without any user interface
 see the video tutorial(http://youtu.be/gmfv3QHrwfM) or a simple description below
 ----------KEYMAP-----------
+(video tutorial http://youtu.be/Qfz-UAqSjRc)
 usage is very simple. select any text and press 
 , key .The text selection moves to next line and 'reads it'(i.e upto next full stop)
 aloud i.e u will hear the sound from the speakers
