@@ -1,4 +1,4 @@
-PLEASE VIEW THIS FILE IN RAW MODE. OTHERWISE EVERYTHING IS SCRAMBLED :(
+PLEASE VIEW THIS FILE IN RAW MODE. OTHERWISE EVERYTHING IS SCRAMBLED :( https://raw.githubusercontent.com/sktguha/screenreader-dependant/master/README.md
 
 a simple extension for chrome to read websites aloud without any user interface
 see the video tutorial(http://youtu.be/gmfv3QHrwfM) or a simple description below
