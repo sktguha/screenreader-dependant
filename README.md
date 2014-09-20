@@ -1,3 +1,4 @@
+<pre>
 PLEASE VIEW THIS FILE IN RAW MODE. OTHERWISE EVERYTHING IS SCRAMBLED :( https://raw.githubusercontent.com/sktguha/screenreader-dependant/master/README.md
 
 a simple extension for chrome to read websites aloud without any user interface
@@ -17,3 +18,4 @@ similiarly 'm' key goes to previous line and reads it.(i.e upto previous full st
  (windows)application 
 running a server with localhost://60024 using a GET request and hence the server processes it i.e 
 converts into speech. 
+</pre>
