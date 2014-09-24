@@ -1,9 +1,5 @@
 /*
  * 
- * hello sir please see the code for screenreader extension.some functions may be uncommented
- * or not described well. i am sorry for that. actually i made this for myself to avoid eyestrain
- * while reading webpages .
- * so see the video or a simple description below
  * ----------KEYMAP-----------
  * usage is very simple. select any text and press 
  * , key. selection goes to next line and 'reads it'(i.e upto previous full stop)
@@ -212,7 +208,7 @@ function subs(inp)
         ,"\u2208: belongs to "	//29
         ,"\u2260: not equal to "   	//30
         //,".: dot "                                  //31	
-        ,"-: minus "                               //32	
+    //    ,"-: minus "                               //32	
         //,"Y: y "                                        
         ,"/:/"//divided by "                       //33	
         ,"*: into "	//34
